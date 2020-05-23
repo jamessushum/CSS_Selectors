@@ -1,0 +1,47 @@
+header {
+  border: 1px solid goldenrod;
+}
+
+header ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+span.disabled {
+  color: grey;
+}
+
+span.active {
+  color: yellow;
+}
+
+.parent div :nth-child(1) {
+  color: red;
+}
+
+.parent div :nth-child(3) {
+  color: blue;
+}
+
+.parent div :nth-child(2) {
+  background-color: red;
+}
+
+.parent div :nth-child(4) {
+  background-color: blue;
+}
+
+.grandparent > h4 {
+  border: 1px solid goldenrod;
+  border-radius: 25px;
+}
+
+.promo {
+  font-weight: bold;
+  color: gold;
+}
+
+footer {
+  line-height: 25px;
+}
