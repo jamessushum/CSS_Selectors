@@ -1,6 +1,6 @@
 # CSS_Selectors
 
-Practiced using various CSS selectors through a simple yet stimulating exercise!
+Exercise utilizing CSS selectors to style HTML content without adding additional id and class attributes.
 
 Key Highlights:
 
