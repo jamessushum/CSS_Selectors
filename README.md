@@ -1,9 +1,3 @@
 # CSS_Selectors
 
-Exercise utilizing CSS selectors to style HTML content without adding additional id and class attributes.
-
-Key Highlights:
-
-* Child/Sibling selectors
-* nth-child selector
-* CSS flexbox 
+CSS Selectors is an exercise using CSS child/sibling selectors to style specific HTML content.
